@@ -1,0 +1,7 @@
+id;study;scanner;B0;analysis;patient;sequence;TR;TE;Navg;age;group;spot;checkpoint
+testsiemens1;;Siemens;3T;lcmodel;human;PRESS;;30;NA;NA;intact;NA;NA
+Fiedorowicz_MF43.joi;9;Bruker;7T;lcmodel;C57;PRESS;2000;20;1024;1;intact;Visual cortex;NA
+Gazdzinski_D22;6;Bruker;7T;lcmodel;rat;PRESS;;;;;diet;hipocampus;NA
+Gazdzinski_D22;10;Bruker;7T;lcmodel;rat;PRESS;;;;;diet;acc;NA
+Rejdak_KR58;5;Bruker;7T;lcmodel;rat;PRESS;;;;;pilokarpina;hipocampus;NA
+Rejdak_KR58;5;Bruker;7T;lcmodel;rat;PRESS;;;;;pilokarpina;hipocampus;NA

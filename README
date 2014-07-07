@@ -1,0 +1,4 @@
+Aplikacja służy do analizy danych ze spektroskopii NMR.  Składa się z 3 modułów:
+1. Moduł spectbase.py prostego GUI (jest to jedynie funkcjonalny szkic w budowie)
+2. Moduł conf.py obejmujący funkcje obsługujące plik konfiguracyjny
+3. Moduł lcmodel.py obslugujący program LCModel z poziomu linii poleceń
